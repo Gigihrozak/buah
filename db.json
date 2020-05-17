@@ -1,0 +1,94 @@
+{
+    "fruit": [
+        {
+            "id": "15",
+            "nama": "Leci",
+            "calori": "66 kcal",
+            "img": "https://s0.bukalapak.com/img/0426424272/w-1000/Buah_Segar_Leci_Mas_Import_Thailand___Lychee_Fresh_Fruit.jpg"
+        },
+        {
+            "id": "14",
+            "nama": "Stroberi",
+            "calori": "32.5 kcal",
+            "img": "https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2018/06/23/2252765820.jpg"
+        },
+        {
+            "id": "13",
+            "nama": "Semangka",
+            "calori": "30.4 kcal",
+            "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/3/14/0/0_8db85583-1057-4b86-a5ae-cd6237d1f4b4_1304_1024.jpg"
+        },
+        {
+            "id": "12",
+            "nama": "Pisang",
+            "calori": "88.7 kcal",
+            "img": "https://cdn2.tstatic.net/aceh/foto/bank/images/pisang_20180506_150017.jpg"
+        },
+        {
+            "id": "11",
+            "nama": "Persik",
+            "calori": "39.4 kcal",
+            "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1578292481/attached_image/7-manfaat-buah-persik-bagi-kesehatan.jpg"
+        },
+        {
+            "id": "10",
+            "nama": "Nanas",
+            "calori": "50 kcal",
+            "img": "https://doktersehat.com/wp-content/uploads/2018/09/manfaat-buah-nanas-doktersehat.jpg"
+        },
+        {
+            "id": "9",
+            "nama": "Markisa",
+            "calori": "97 kcal",
+            "img": "https://cms.sehatq.com/cdn-cgi/image/f=auto,width=890,height=530,fit=cover,background=white,quality=100/public/img/article_img/manis-dan-segar-ketahui-manfaat-buah-markisa-untuk-kesehatan-tubuh-1569498202.jpg"
+        },
+        {
+            "id": "8",
+            "nama": "Kiwi",
+            "calori": "60.9 kcal",
+            "img": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/271/271232/chopped-kiwi-in-a-bowl-on-a-table.jpg?w=1155&h=1444"
+        },
+        {
+            "id": "7",
+            "nama": "Jeruk Bali",
+            "calori": "38 kcal",
+            "img": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/03/19/3910196850.jpg"
+        },
+        {
+            "id": "6",
+            "nama": "Jeruk Nipis",
+            "calori": "30.1 kcal",
+            "img": "https://cdns.klimg.com/merdeka.com/i/w/news/2017/10/30/903576/640x320/22-manfaat-jeruk-nipis-untuk-kesehatan-wajah-dan-rambut.jpg"
+        },
+        {
+            "id": "5",
+            "nama": "Delima",
+            "calori": "82.7 kcal",
+            "img": "https://statik.tempo.co/data/2016/07/12/id_522071/522071_620.jpg"
+        },
+        {
+            "id": "4",
+            "nama": "Ceri",
+            "calori": "50 kcal",
+            "img": "https://cdn-image.bisnis.com/posts/2017/12/30/722267/ceri.jpg"
+        },
+        {
+            "id": "3",
+            "nama": "Avokad",
+            "calori": "160.1 kcal",
+            "img": "https://cdns.klimg.com/dream.co.id/resources/news/2019/04/15/105998/buah-avokad-matang-lebih-cepat-ketahui-caranya-1904154.jpg"
+        },
+        {
+            "id": "2",
+            "nama": "Apel",
+            "calori": "52.1 kcal",
+            "img": "https://d1bpj0tv6vfxyp.cloudfront.net/khasiatbuahapelyangcocokuntuk6penyakitinihalodoc.jpg"
+        },
+        {
+            "id": "1",
+            "nama": "Anggur ",
+            "calori": "66.9 kcal",
+            "img": "https://cms.sehatq.com/cdn-cgi/image/f=auto,width=890,height=530,fit=cover,background=white,quality=100/public/img/article_img/13-manfaat-anggur-merah-si-buah-menyegarkan-yang-kaya-nutrisi-1570083757.jpg"
+        }
+    ]
+}
